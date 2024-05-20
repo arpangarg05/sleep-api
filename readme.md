@@ -7,7 +7,7 @@ This is a simple API for tracking sleep data. It allows you to store, retrieve, 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/arpangarg05/sleep-api.git
-   cd sleep-tracker-api
+   cd sleep-api
    ```
 2. **Install dependencies::**
    ```bash
